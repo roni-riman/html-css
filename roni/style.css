@@ -1,0 +1,137 @@
+/* google font link here  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat+Brush&family=DynaPuff:wght@400;500;600&family=Fjalla+One&family=Fredoka+One&family=Grape+Nuts&family=Kaushan+Script&family=Koulen&family=Merienda&family=Merriweather+Sans:ital@1&family=Odibee+Sans&family=Orelega+One&family=Oswald:wght@200;300;400;500;600;700&family=PT+Serif&family=Pacifico&family=Pangolin&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,900;1,400&family=Rubik+Wet+Paint&family=Tiro+Tamil:ital@0;1&family=Ubuntu:wght@300;400&display=swap');
+/* google font link here  */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+ }
+.content{
+    width: auto;
+    height: 254px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 2px;
+}
+.content:nth-child(1){
+ }
+.one-two{
+    width: 45%;
+    float: left;
+     height: 243px;
+}
+.one-two img{
+    width: 88%;
+    border-radius:50% ;
+    position: relative;
+    left: 46px;
+    top: 5px;
+}
+ .wow{
+    position: relative;
+    left: 121px;
+     width: 279px;
+    font-family: 'PT Serif', serif;
+    font-weight: 500;
+  }
+          
+.article{
+    position: relative;
+    left: 20px;
+}
+.spanPosition{
+    position: relative;
+    top: 3px;
+    left: 45px;
+}
+.aboutMySelf{
+    position: relative;
+    width: 478px;
+    font-size: 13px;
+}
+.article a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Odibee Sans', cursive;
+}
+.buttonSubmid{
+    width: 122px;
+    height: 28px;
+    padding: 5px;
+    background: black;
+    color: white;
+    border-radius: 13px;
+    border: none;
+}
+.threePart img{
+    position: relative;
+    left: 14px;
+    width: 67%;
+}
+.buttonSubmidSecond{
+    width: 122px;
+    height: 28px;
+    padding: 5px;
+    background: orange;
+    color: white;
+    border-radius: 13px;
+    border: none;
+}
+.aboutMySelfsecond{
+    position: relative;
+    width: 420px;
+    font-size: 13px;
+    font-family: 'DynaPuff', cursive;
+}
+.buttonSubmidSecond a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Odibee Sans', cursive;
+}
+.headingSecond h2{
+    font-family: 'DynaPuff', cursive;
+}
+.wellcomePart{
+    background-color: orange;
+    height: 200px;
+    width: auto;
+    margin-top: 10px;
+}
+.navbarPart{
+    background-color: white;
+    width: 380px;
+    height: 146px;
+    position: relative;
+    left: 24%;
+    top: 34px;
+    box-shadow: -3px 2px 4px aliceblue;
+    border: none;
+    border-radius: 2px;
+}
+.socailink a{
+     text-decoration: none;
+     position: relative;
+     left: 15px;
+     margin-left: 24px;
+     top: 23px;
+     color: black;
+ }
+ .socailink a:hover{
+    text-decoration: underline;
+    color: blue;
+ }
+ .gmail{
+    position: relative;
+    top: 48px;
+    left: 96px;
+ }
+ .gmail:hover{
+    color: orange;
+    text-decoration: underline;
+ }
+ .copyright{
+    position: relative;
+    top: 104px;
+    left: -47px;
+    font-size: 13px;
+ }
